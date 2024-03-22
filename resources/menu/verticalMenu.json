@@ -36,7 +36,7 @@
           ]
         },
         {
-          "url": "https://demos.themeselection.com/sneat-bootstrap-html-laravel-admin-template/demo-1/app/logistics/dashboard",
+          "url": "",
           "name": "Logistics",
           "slug": "app-logistics-dashboard",
           "target": "_blank",
@@ -46,7 +46,7 @@
           ]
         },
         {
-          "url": "https://demos.themeselection.com/sneat-bootstrap-html-laravel-admin-template/demo-1/app/academy/dashboard",
+          "url": "",
           "name": "Academy",
           "slug": "app-academy-dashboard",
           "target": "_blank",
@@ -100,31 +100,31 @@
       ],
       "submenu": [
         {
-          "url": "https://demos.themeselection.com/sneat-bootstrap-html-laravel-admin-template/demo-1/front-pages/landing",
+          "url": "",
           "name": "Landing",
           "slug": "front-pages-landing",
           "target": "_blank"
         },
         {
-          "url": "https://demos.themeselection.com/sneat-bootstrap-html-laravel-admin-template/demo-1/front-pages/pricing",
+          "url": "",
           "name": "Pricing",
           "slug": "front-pages-pricing",
           "target": "_blank"
         },
         {
-          "url": "https://demos.themeselection.com/sneat-bootstrap-html-laravel-admin-template/demo-1/front-pages/payment",
+          "url": "",
           "name": "Payment",
           "slug": "front-pages-payment",
           "target": "_blank"
         },
         {
-          "url": "https://demos.themeselection.com/sneat-bootstrap-html-laravel-admin-template/demo-1/front-pages/checkout",
+          "url": "",
           "name": "Checkout",
           "slug": "front-pages-checkout",
           "target": "_blank"
         },
         {
-          "url": "https://demos.themeselection.com/sneat-bootstrap-html-laravel-admin-template/demo-1/front-pages/help-center",
+          "url": "",
           "name": "Help Center",
           "slug": "front-pages-help-center",
           "target": "_blank"
@@ -141,7 +141,7 @@
       ],
       "submenu": [
         {
-          "url": "https://demos.themeselection.com/sneat-bootstrap-html-laravel-admin-template/demo-1/laravel/user-management",
+          "url": "",
           "name": "User Management",
           "slug": "laravel-example-user-management",
           "target": "_blank"
@@ -163,7 +163,7 @@
       ]
     },
     {
-      "url": "https://demos.themeselection.com/sneat-bootstrap-html-laravel-admin-template/demo-1/app/chat",
+      "url": "",
       "name": "Chat",
       "icon": "menu-icon tf-icons bx bx-chat",
       "slug": "app-chat",
@@ -174,7 +174,7 @@
       ]
     },
     {
-      "url": "https://demos.themeselection.com/sneat-bootstrap-html-laravel-admin-template/demo-1/app/calendar",
+      "url": "",
       "name": "Calendar",
       "icon": "menu-icon tf-icons bx bx-calendar",
       "slug": "app-calendar",
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "url": "https://demos.themeselection.com/sneat-bootstrap-html-laravel-admin-template/demo-1/app/kanban",
+      "url": "",
       "name": "Kanban",
       "icon": "menu-icon tf-icons bx bx-grid",
       "slug": "app-kanban",
@@ -450,7 +450,7 @@
       "slug": "tables-basic"
     },
     {
-      "url": "https://demos.themeselection.com/sneat-bootstrap-html-laravel-admin-template/demo-1/tables/datatables-basic",
+      "url": "",
       "icon": "menu-icon tf-icons bx bx-grid",
       "name": "Datatables",
       "slug": "tables-datatables",
@@ -464,14 +464,14 @@
       "menuHeader": "Misc"
     },
     {
-      "url": "https://github.com/themeselection/sneat-bootstrap-html-laravel-admin-template-free/issues",
+      "url": "",
       "icon": "menu-icon tf-icons bx bx-support",
       "name": "Support",
       "slug": "support",
       "target": "_blank"
     },
     {
-      "url": "https://themeselection.com/demo/sneat-bootstrap-html-admin-template/documentation/laravel-introduction.html",
+      "url": "",
       "icon": "menu-icon tf-icons bx bx-file",
       "name": "Documentation",
       "slug": "documentation",
