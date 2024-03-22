@@ -153,7 +153,7 @@
     },
     {
       "url": "/",
-      "name": "Email",
+      "name": "Admin",
       "icon": "menu-icon tf-icons bx bx-envelope",
       "slug": "app-email",
       "target": "_blank",

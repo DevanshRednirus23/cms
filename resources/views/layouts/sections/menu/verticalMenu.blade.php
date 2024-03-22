@@ -19,7 +19,7 @@
 
     <ul class="menu-inner py-1">
 
-
+      {{-- @dd($menuData[0]->menu); --}}
       @foreach ($menuData[0]->menu as $menu)
 
 
